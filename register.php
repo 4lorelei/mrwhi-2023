@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://mrwhy-001.herokuapp.com/execute.php';
+$WEBHOOK_URL = 'https://mrwhy-app.herokuapp.com/execute.php';
 $BOT_TOKEN = '819802080:AAEchb_QkdRNkrHf99xjrJBqd5PJMZJYmgc';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
